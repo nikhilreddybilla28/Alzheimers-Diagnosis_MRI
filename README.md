@@ -5,4 +5,4 @@
 diagnosis of Alzheimer disease using MRI of the head.
 
 
-[![Diagnoose_here](https://hub.gke2.mybinder.org/user/nikhilreddybill-s-diagnosis_mri-b5k2642f/voila/render/Alzheimers_MRI_App.ipynb?token=kJ-nsTwiT2OTbE4BxaH8-w)
+[![Diagnoose_here](https://www.flaticon.com/svg/static/icons/svg/1754/1754210.svg)]([![Binder](https://hub.gke2.mybinder.org/user/nikhilreddybill-s-diagnosis_mri-b5k2642f/voila/render/Alzheimers_MRI_App.ipynb?token=kJ-nsTwiT2OTbE4BxaH8-w))
