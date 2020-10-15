@@ -4,7 +4,7 @@
 
 diagnosis of Alzheimer's disease using Head MRI .
 
-<a href="https://hub.gke2.mybinder.org/user/nikhilreddybill-s-diagnosis_mri-20qkr8i2/voila/render/Alzheimers_MRI_App.ipynb?token=25-miSEtSQKXO46CMLnPIg">
+<a href="https://notebooks.gesis.org/binder/jupyter/user/nikhilreddybill-s-diagnosis_mri-pif76a7v/voila/render/Alzheimers_MRI_App.ipynb?token=8x4KrBz1R2es63I1Tyj_3A">
   <img align="left" alt="AD-diagnosis" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvg5nYCYEGgg3Xu1oEOeiJB8XiCkEecCx4PQ&usqp=CAU" />
 </a>
 
