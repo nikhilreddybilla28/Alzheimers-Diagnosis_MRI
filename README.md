@@ -8,6 +8,7 @@ diagnosis of Alzheimer's disease using Head MRI .
   <img align="left" alt="AD-diagnosis" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvg5nYCYEGgg3Xu1oEOeiJB8XiCkEecCx4PQ&usqp=CAU" />
 </a>
 
+<br>
 
 <a href="https://mybinder.org/v2/gh/nikhilreddybilla28/Alzheimers-Diagnosis_MRI/main?urlpath=voila%2Frender%2FAlzheimers_MRI_App.ipynb">
   <img align="left" alt="AD-diagnosis" width="60px" src="https://blog.bccresearch.com/hs-fs/hubfs/Blog_Images/alzheimer-blog.jpg?width=600&name=alzheimer-blog.jpg" />
