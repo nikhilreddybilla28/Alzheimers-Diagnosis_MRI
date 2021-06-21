@@ -9,3 +9,5 @@ diagnosis of Alzheimer's disease using Head MRI .
 </a>
 
 
+matrix elemnts should be space separated while giving input, as shown below.
+![demo](a1.png)
